@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Exports to-do list information for a given employee ID to CSV format."""
+""" Python script that, using this REST API, for a given employee ID"""
 import csv
 import requests
 import sys
